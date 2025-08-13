@@ -1,0 +1,38 @@
+Essential Dashboard Elements (Current Stage)
+Product Summary Cards
+
+Total number of products
+
+Total inventory count
+
+Average/latest product price
+
+Number of webhook updates received
+
+Product Table
+
+List of products with key info:
+
+Product ID / Name
+
+Current inventory level
+
+Latest price
+
+Number of times updated
+
+Aggregated Analytics Chart
+
+Visualize aggregated inventory or pricing trends over time
+
+Show how inventory levels and prices have changed hourly/daily
+
+Data Refresh Indicator
+
+Timestamp of last successful data aggregation run
+
+Indicator if the scheduled Lambda analytics job is working fine
+
+Notification Panel (optional for now)
+
+Latest SNS notifications or alerts sent (can be a simple log view)
